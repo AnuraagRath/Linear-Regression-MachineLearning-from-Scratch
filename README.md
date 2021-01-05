@@ -1,5 +1,5 @@
 # Linear-Regression-MachineLearning-from-Scratch
-Using python we have created a Linear Regression Machine Learning Model from Scratch. We have implemented Gradient Descent to find the best 'm' (Slope) and 'b' (Intercept).
+Using python a Linear Regression Machine Learning Model from Scratch has been created. We have implemented Gradient Descent to find the best 'm' (Slope) and 'b' (Intercept).
 
 ## Creating a Linear Regression Model from Scratch:
 
